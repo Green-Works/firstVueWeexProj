@@ -1,0 +1,6 @@
+{
+  "AppName":"firstvueweexproj",
+  "AppId":"com.green_works.firstvueweexproj",
+  "SplashText":"Hello\nfirstvueweexproj",
+  "WeexBundle":"app.weex.js"
+}
